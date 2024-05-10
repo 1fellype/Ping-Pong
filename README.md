@@ -6,7 +6,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso 👨🏻‍💻
- [Clique aqui para acessar! :)]()
+ [Clique aqui para acessar! :)](https://pingpong-fellype.vercel.app/)
 
 ## Tecnologias 👾
 - HTML
